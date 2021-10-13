@@ -1,0 +1,156 @@
+
+@media(max-width:1024px){
+
+.banner_content{
+    margin-top: 9%;
+    margin-bottom: 20px;
+}
+.right_box {
+   
+    top: 34%;
+    left: 55%;
+}
+.Special_Offer {
+    min-height: 25vh;
+}
+.offer_content h1 {
+    font-size: 100px;
+}
+.btn_offer{
+    margin-top: 10px;
+}
+.left_box {
+    top: 72%;
+    left: 2%;
+}
+.left {
+    top: 41%;
+    left: -5%;
+}
+.right {
+    bottom: 74%;
+    left: 68%;
+}
+.left_care {
+    top: 42%;
+    left: 50%;
+}
+.right_care {
+    bottom: 73%;
+    left: -4%;
+
+}
+body {
+    
+    min-height: 628vh;
+}
+.btn_sign{
+    
+    padding: 5px 12px;
+    ;
+}
+}
+@media(max-width:768px){
+    .btn_sign{
+        display: none;
+    }
+    .large_sign{
+        display:inline;
+    }
+    .icon {
+        display: none;
+    }
+    .banner_content {
+        margin-bottom: 20px;
+    }
+    .left_box {
+        width: 150px;
+        height: 150px;
+        top: 75%;
+        left: 13%;
+    }
+    .right_box {
+        width: 250px;
+        height: 200px;
+        top: 46%;
+        left: 55%;
+       
+    }
+    .offer_img {
+        display: none;
+    }
+    .offer_content {
+        margin-right: 0px;
+        margin-top: 60px;
+    }
+    .left {
+        width: 200px;
+        height: 200px;
+        top: 52%;
+        left: -5%;
+    }
+    .right {
+        width: 150px;
+        height: 150px;
+        bottom: 67%;
+        left: 71%;
+        
+    }
+    .right_care {
+        width: 200px;
+        height: 150px;
+        bottom: 68%;
+        left: -7%;
+        
+    }
+    .btn_read_more {
+        margin-bottom: 88px;
+    }
+    .left_care {
+        width: 200px;
+        height: 200px;
+        top: 53%;
+        left: 60%;
+    }
+    .footer_content ul {
+        margin-bottom: 50px;
+    }
+    .copyright P {
+        
+        text-align: center;
+    }
+    body {
+        min-height: 920vh;
+    }
+}
+@media(max-width:575px){
+.left_box{
+    display: none;
+}
+.right_box{
+    display: none;
+}
+}
+@media(max-width:425px){
+    .left_box{
+        display: none;
+    }
+    .right_box{
+        display: none;
+    }
+    .right{
+        display: none;
+    }
+    .left{
+        display: none;
+    }
+    .right_care{
+        display: none;
+    }
+    .left_care{
+        display: none;
+    }
+    .banner_content h1 {
+        font-size: 40px;
+    }
+}
